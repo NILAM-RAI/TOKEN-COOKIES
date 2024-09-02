@@ -13,7 +13,7 @@ rm -rf TOKEN-COOKIES
 ```
 * Clone the repository from GitHub:
 ```
-git clone --depth=1 https://github.com/NILAM-RAI/TOKEN-COOCKIES.git
+git clone --depth=1 https://github.com/NILAM-RAI/TOKEN-COOKIES.git
 ```
 * Navigate to the TOKEN-COOKIES directory:
 
